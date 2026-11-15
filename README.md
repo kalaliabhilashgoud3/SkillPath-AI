@@ -6,6 +6,8 @@ An interactive, static website demo for the SkillPath AI minor project. The site
 
 Open `index.html` in a modern browser, or serve this folder with any static web server. No build step or package installation is required.
 
+On Windows, double-click `Start SkillPath AI.bat` to open the deployed website in your default browser.
+
 ## Demo behavior
 
 - The profile, assessment, syllabus-coverage choices and task progress are saved in browser local storage.
